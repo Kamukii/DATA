@@ -14,6 +14,6 @@ Output labels (What does the dataset predict?): The dataset predicts efficiency 
 
 Dataset source (Where did you find it?): This dataset is found on Kaggle and used data from volleyballworld.com
 
-How to run the code?:
+How to run the code?: Git clone repo, cd into lab3 the run this in the terminal: python Lab3.py --file ..\DATA\VNL2023.csv
 
 Group member contributions: Bryant Truong did everything for this lab
