@@ -14,6 +14,9 @@ Output labels (What does the dataset predict?): The dataset predicts efficiency 
 
 Dataset source (Where did you find it?): This dataset is found on Kaggle and used data from volleyballworld.com
 
-How to run the code?:
+How to run the code?: Git clone repo, cd into lab3 the run this in the terminal: python Lab3.py --file ..\DATA\VNL2023.csv
 
 Group member contributions: Bryant Truong did everything for this lab
+
+Part 6: Added statistical analysis to find mean, max, min, and correlations
+some findings were that the oldest player that year was 41. The correlation is if youre older youre less efficent at attacking and if you set it tends to correlate into being bad at attacking
