@@ -13,7 +13,7 @@ def splitDataRandom(df):
 def dataset_statistics(df):
     print("\n===== DATASET STATISTICS =====")
     print("\n--- Mean values ---")
-    print(df.mean(numeric_only=True))   # mean of numeric columns
+    print(df.mean(numeric_only=True))   # mean
 
     print("\n--- Max values ---")
     print(df.max(numeric_only=True))    # max
@@ -22,7 +22,7 @@ def dataset_statistics(df):
     print(df.min(numeric_only=True))    # min
 
     print("\n--- Correlation Matrix ---")
-    print(df.corr(numeric_only=True))   # correlation matrix
+    print(df.corr(numeric_only=True))   # correlation
 
 
 if __name__ == "__main__":
